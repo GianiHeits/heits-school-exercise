@@ -12,6 +12,3 @@ module.exports = class Fraction {
         return this.getIntegerValue() + fraction.getIntegerValue();
     }
  }
-
-//  var testFraction = require('./fraction.js')
-//  console.log(new testFraction(3, 1).getIntegerValue())
